@@ -32,5 +32,5 @@ An attendance management system (AMS) is a  tool that helps organizations track 
         2. Scanning (or searching) for a fingerprint in the sensor's database  
         3. Deleting a specific fingerprint from the sensor's database.  
         4. Deleting all the data library buffer in sensor.
-## example image     ![image](https://github.com/maybesravan/-Attendance-management-system-AMS-/assets/81691560/9e5e0d13-bfd6-4c97-ad8c-e38766003903)
+# ![image](https://github.com/maybesravan/-Attendance-management-system-AMS-/assets/81691560/9e5e0d13-bfd6-4c97-ad8c-e38766003903)
 
