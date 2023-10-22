@@ -3,14 +3,12 @@ An attendance management system (AMS) is a  tool that helps organizations track 
 # -AMSs can track:
         1.Attendance, Breaks, Time off, 
         2.Arrival time, Duration of absence, 
-        3.Leaves
-        4.Clocking in and out
-        5.Leave management
-        6.Payroll integration
-        7.Reporting
-        8.Biometric attendance
-        9.Missed clock-in alerts
-        10.Calendar integration
+        3.Clocking in and out
+        4.Leave management
+        5.Payroll integration
+        6.Reporting
+        7.Biometric attendance
+        8.Calendar integration
 # -When choosing an AMS, you can consider things like: 
         1.The number of people who work at your company.
         2.Keeping Track of each employee work hours.
@@ -34,5 +32,5 @@ An attendance management system (AMS) is a  tool that helps organizations track 
         2. Scanning (or searching) for a fingerprint in the sensor's database  
         3. Deleting a specific fingerprint from the sensor's database.  
         4. Deleting all the data library buffer in sensor.
-![image](https://github.com/maybesravan/-Attendance-management-system-AMS-/assets/81691560/9e5e0d13-bfd6-4c97-ad8c-e38766003903)
+# ![image](https://github.com/maybesravan/-Attendance-management-system-AMS-/assets/81691560/9e5e0d13-bfd6-4c97-ad8c-e38766003903)
 
