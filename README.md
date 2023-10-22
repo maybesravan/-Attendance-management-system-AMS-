@@ -14,8 +14,8 @@ An attendance management system (AMS) is a  tool that helps organizations track 
 # -When choosing an AMS, you can consider things like: 
         1.The number of people who work at your company.
         2.Keeping Track of each employee work hours.
-# -STM32F103-FINGERPRINT-SENSOR  
-          This repository contains sample codes for interfacing an stm32f103 microcontroller with a fingerprint sensor.  
+# -STM32F401-FINGERPRINT-SENSOR  
+          This repository contains sample codes for interfacing an stm32f401 microcontroller with a fingerprint sensor.  
 # -Fingerprint sensor details  
         The fingerprint sensors use UART for communicating with a microcontroller.   
           Some popular fingerprint sensor modules include:      
